@@ -1,0 +1,2 @@
+export DDP_DEFAULT_CONNECTION_URL='http://localhost:4005/'
+meteor -p 4000
